@@ -2,6 +2,12 @@
 ### citron is a roblox-javascript client that is capable of running code, automating a bot to chat to teammates, and much more.
 ---
 
+please read the credits, the people who supported citron are awesome and deserve it
+
+[credits](https://github.com/Mintxshi/citron/credits.md)
+
+---
+
 ## Info
 
 Currently supported platforms 
