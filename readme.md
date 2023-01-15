@@ -1,5 +1,5 @@
-# Basil
-### Basil is a roblox-javascript client that is capable of running code, automating a bot to chat to teammates, and much more.
+# Citron
+### citron is a roblox-javascript client that is capable of running code, automating a bot to chat to teammates, and much more.
 ---
 
 ## Info
@@ -21,14 +21,14 @@ Currently supported platforms
 Go to the directory your project will be in.
 Run the following below.
 
-`npm i basilrbx`.
+`npm i citronrbx`.
 
 Add the following to your code.
 ```js
-const basil = require('basilrbx')
+const citron = require('citronrbx')
 ```
 
-And then, run `npx basilstart`.
+And then, run `npx citronstart`.
 
 | Injectors | Supported |
 | --- | --- |
@@ -44,7 +44,7 @@ For more info, visit the wiki.
 
 ---
 
-# Basil is still being worked on!
+# Citron is still being worked on!
 
 ### More languages are going to get support. Theres a table below on what we're working on, and a roadmap.
 ✅ - yes!
@@ -62,13 +62,13 @@ For more info, visit the wiki.
 
 --- 
 
-If you want to make your own Basil pkg read below!
+If you want to make your own Citron pkg read below!
 
-1. If you make a Basil Pkg for a lang that already exists, you won't be featured in "Repo".
+1. If you make a Citron Pkg for a lang that already exists, you won't be featured in "Repo".
 
 1a. If we make a package for the language you made one for, your's will be removed.
 
-2. If making a package take the proper precautions, basil works with certain things.
+2. If making a package take the proper precautions, citron works with certain things.
 
 2a. Make sure your package opens a server at `localhost:80` (most of the time)
 
@@ -76,7 +76,7 @@ If you want to make your own Basil pkg read below!
 
 2c. Make sure the user can change the port.
 
-3. Please specify if your package is made for basil. Don't make your package name `robloxclientcontroller` and then include "Works with basil" in description.
+3. Please specify if your package is made for citron. Don't make your package name `robloxclientcontroller` and then include "Works with citron" in description.
 
 ---
 
