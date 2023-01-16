@@ -4,7 +4,7 @@
 
 please read the credits, the people who supported citron are awesome and deserve it
 
-[credits](https://github.com/Mintxshi/citron/credits.md)
+[credits](https://github.com/Mintxshi/citron/blob/main/credits.md)
 
 ---
 
